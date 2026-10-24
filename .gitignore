@@ -1,0 +1,20 @@
+# Electron 打包产物
+App/
+
+# Node 依赖
+android/node_modules/
+
+# Gradle 构建与本地配置
+android/.gradle/
+android/.idea/
+android/local.properties
+android/**/build/
+
+# 构建输出
+*.apk
+*.aab
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store

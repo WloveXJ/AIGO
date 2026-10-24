@@ -1,0 +1,11 @@
+{
+  "appId": "com.goai.mobile",
+  "appName": "围棋AI",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
